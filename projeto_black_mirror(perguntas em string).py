@@ -3,7 +3,7 @@ opcaoEscolhida = -1
 while(opcaoEscolhida != 0):
     opcaoEscolhida = (input(f'''
     ======== Q U E S T I O N Á R I O =============================================================
-    ESCOLHA UMA DAS PERGUNTAS ABAIXO: 
+    ESCOLHA UMA DAS PERGUNTAS ABAIXO E DIGITE EXATAMENTE COMO ESTÁ(TUDO MAIUSCULO): 
     QUAL É O NOME COMPLETO DA PROTAGONISTA DO EPISÓDIO?
     QUEM DIRIGE A VIDA DE JOAN EM TEMPO REAL PARA UMA SÉRIE DE TELEVISÃO?
     QUAL É O NOME DO SERVIÇO DE STREAMING FICTÍCIO QUE PARODIA A NETFLIX NO EPISÓDIO?
