@@ -11,6 +11,8 @@ while(opcaoEscolhida != 0):
     QUAL É A REAÇÃO INICIAL DE JOAN AO DESCOBRIR A SÉRIE E O QUE ELA FAZ EM RESPOSTA?
     QUAIS SÃO OS TEMAS PRINCIPAIS EXPLORADOS NESTE EPISÓDIO DE BLACK MIRROR?
     O EPISÓDIO TERMINA DE MANEIRA TÍPICA PARA A SÉRIE BLACK MIRROR? EXPLIQUE
+    
+    SAIR
     ============================================================================================
     : '''))
     if (opcaoEscolhida == 'QUAL É O NOME COMPLETO DA PROTAGONISTA DO EPISÓDIO?'):
@@ -27,7 +29,7 @@ while(opcaoEscolhida != 0):
          print("ChatPTK: Como CGI e a inteligência artificial podem destruir a vida de alguém ")
     elif(opcaoEscolhida == 'O EPISÓDIO TERMINA DE MANEIRA TÍPICA PARA A SÉRIE BLACK MIRROR? EXPLIQUE'):
         print("ChatPTK: Infelizmente não temos uma resposta ainda.")
-    elif(opcaoEscolhida == 0):
+    elif(opcaoEscolhida == 'SAIR'):
         print("@@SAINDO DO APP...@@")
 
 
